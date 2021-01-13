@@ -1,0 +1,775 @@
+[
+    {
+        "buscode": "B001",
+        "busoperatorname": "Adam Ekspres",
+        "busoperatorcompanyname": "Mehshah Travel & Tours Sdn. Bhd",
+        "busoperatorphoneno": [
+            {
+                "phonehq": "-",
+                "phoneoperation":"013-6688189",
+                "phonehotline": "-"
+            }
+        ],
+        "busoperatorfaxno": "-",
+        "busoperatoremail": "adamekspres@gmail.com",
+        "bustype": [
+            {
+                "type": "single deck",
+                "seat": "30"
+            }
+        ],
+        "busfacilities": [
+            {
+                "tv": false,
+                "wifi":false,
+                "socketplug": false,
+                "usbport": false,
+                "vipseater": false,
+                "readinglight": false
+            }
+        ],
+        "busdropoffpoint": [
+            {
+                "location": "Paka"
+            },
+            {
+                "location": "Dungun"
+            },
+            {
+                "location": "Kuala Berang"
+            },
+            {
+                "location": "UniSZA"
+            },
+            {
+                "location": "Hentian Bas MBKT Kuala Terengganu"
+            },
+            {
+                "location": "Kuala Besut"
+            }
+        ]  
+    },
+    {
+        "buscode": "B002",
+        "busoperatorname": "Adik Beradik",
+        "busoperatorcompanyname": "Agensi Pelancongan D & Adik Beradik Sdn Bhd",
+        "busoperatorphoneno": [
+            {
+                "phonehq": "(09) 6155 989",
+                "phoneoperation":"(09) 6223 289 / 6301 181 / 89",
+                "phonehotline": "-"
+            }
+        ],  
+        "busoperatorfaxno": "(09) 6154 089",
+        "busoperatoremail": "adikberadik89@gmail.com",
+        "bustype": [
+            {
+                "type": "single deck",
+                "seat": "30"
+            },    
+            {
+                "type": "double deck",
+                "seat":  "45"
+            }
+        ],
+        "busfacilities": [
+            {
+                "tv": false,
+                "wifi":false,
+                "socketplug": false,
+                "usbport": false,
+                "vipseater": false,
+                "readinglight": false
+            }
+        ],
+        "busdropoffpoint": [
+            {
+                "location": "Kemaman"
+            },
+            {
+                "location": "Dungun"
+            },
+            {
+                "location": "Kuala Berang"
+            },
+            {
+                "location": "UniSZA "
+            },
+            {
+                "location": "Hentian Bas MBKT Kuala Terengganu"
+            },
+            {
+                "location": "Jerteh"
+            }
+        ]     
+    },
+    {
+        "buscode": "B003",
+        "busoperatorname": "Darul Iman Express",
+        "busoperatorcompanyname": "Selesa Transit Sdn. Bhd.",
+        "busoperatorphoneno": [
+            {
+                "phonehq": "-",
+                "phoneoperation":"09-6673900",
+                "phonehotline": "-"     
+            }
+        ], 
+        "busoperatorfaxno": "-",
+        "busoperatoremail": "selesatransit@gmail.com",
+        "bustype": [
+            {
+                "type": "double deck",
+                "seat":  "45"
+            }
+        ],
+        "busfacilities": [
+            {
+                "tv": false,
+                "wifi":true,
+                "socketplug": false,
+                "usbport": true,
+                "vipseater": false,
+                "readinglight": false
+            }
+        ],
+        "busdropoffpoint": [
+            {
+                "location": "Paka"
+            },
+            {
+                "location": "Dungun"
+            },
+            {
+                "location": "Kuala Berang"
+            },
+            {
+                "location": "UniSZA"
+            },
+            {
+                "location": "Hentian Bas MBKT Kuala Terengganu"
+            }
+        ]     
+    },
+    {
+        "buscode": "B004",
+        "busoperatorname": "Ekpres Musafir",
+        "busoperatorcompanyname": "Konsortium E-Mutiara Berhad",
+        "busoperatorphoneno": [
+            {
+                "phonehq": "(09) 774 2655 / (09) 774 3955",
+                "phoneoperation":"(09) 773 3955",
+                "phonehotline": "(09) 774 4955"
+            }
+        ],    
+        "busoperatorfaxno": "-",
+        "busoperatoremail": "hq@e-mutiara.com",
+        "bustype": [
+            {
+                "type": "double deck",
+                "seat":  "58"
+            }
+        ],
+        "busfacilities": [
+            {
+                "tv": false,
+                "wifi":false,
+                "socketplug": false,
+                "usbport": false,
+                "vipseater": false,
+                "readinglight": false
+            }
+        ],
+        "busdropoffpoint": [
+            {
+                "location": "Kemasik"
+            },
+            {
+                "location": "Kerteh"
+            },
+            {
+                "location": "Paka"
+            },
+            {
+                "location": "Kampung Chendering"
+            },
+            {
+                "location": "Kampung Mercang"
+            },
+            {
+                "location": "Hentian Bas MBKT Kuala Terengganu"
+            }
+        ]     
+    },
+    {
+        "buscode": "B005",
+        "busoperatorname": "Ekpres Mutiara",
+        "busoperatorcompanyname": "Konsortium E-Mutiara Berhad",
+        "busoperatorphoneno": [
+            {
+                "phonehq": "(09) 774 2655 / (09) 774 3955",
+                "phoneoperation":"(09) 773 3955",
+                "phonehotline": "(09) 774 4955"
+            }
+        ],    
+        "busoperatorfaxno": "-",
+        "busoperatoremail": "hq@e-mutiara.com",
+        "bustype": [
+            {
+                "type": "double deck",
+                "seat":  "45"
+            }
+        ],
+        "busfacilities": [
+            {
+                "tv": false,
+                "wifi":false,
+                "socketplug": false,
+                "usbport": false,
+                "vipseater": false,
+                "readinglight": false
+            }
+        ],
+        "busdropoffpoint": [
+           
+            {
+                "location": "Hentian Bas MBKT Kuala Terengganu"
+            }
+        ]     
+    },
+    {
+        "buscode": "B006",
+        "busoperatorname": "Express Kesatuan",
+        "busoperatorcompanyname": "Iktisad Indah Sdn. Bhd.",
+        "busoperatorphoneno": [
+            {
+                "phonehq": "-",
+                "phoneoperation":"016-5217775",
+                "phonehotline": "-"
+            }
+        ],     
+        "busoperatorfaxno": "-",
+        "busoperatoremail": "kimsze.nicholas@gmail.com",
+        "bustype": [
+            {
+                "type": "single deck",
+                "seat":  "31"
+            }
+        ],
+        "busfacilities": [
+            {
+                "tv": false,
+                "wifi":false,
+                "socketplug": false,
+                "usbport": false,
+                "vipseater": false,
+                "readinglight": false
+            }
+        ],
+        "busdropoffpoint": [
+            {
+                "location": "Kemaman"
+            },
+            {
+                "location": "Kerteh"
+            },
+            {
+                "location": "Paka"
+            },
+            {
+                "location": "Dungun"
+            },
+            {
+                "location": "Hentian Bas MBKT Kuala Terengganu"
+            }
+        ]     
+    },
+    {
+        "buscode": "B007",
+        "busoperatorname": "Hana Express",
+        "busoperatorcompanyname": "Hana Express",   
+        "busoperatorphoneno": [
+            {
+                "phonehq": "-",
+                "phoneoperation":"019 3404105",
+                "phonehotline": "-"
+            }
+        ],  
+        "busoperatorfaxno": "-",
+        "busoperatoremail": "-",
+        "bustype": [
+            {
+                "type": "single deck",
+                "seat":  "30"
+            }
+        ],
+        "busfacilities": [
+            {
+                "tv": false,
+                "wifi":false,
+                "socketplug": false,
+                "usbport": false,
+                "vipseater": false,
+                "readinglight": false
+            }
+        ],
+        "busdropoffpoint": [
+           
+            {
+                "location": "Hentian Bas MBKT Kuala Terengganu"
+            }
+        ]     
+    },
+    {
+        "buscode": "B008",
+        "busoperatorname": "Jasa Pelangi Express",
+        "busoperatorcompanyname": "Jasa Pelangi Holidays Sdn. Bhd.",
+        "busoperatorphoneno": [
+            {
+                "phonehq": "-",
+                "phoneoperation":"013-7817987",
+                "phonehotline": "-"
+            }
+        ], 
+        "busoperatorfaxno": "-",
+        "busoperatoremail": "jasapelangi5799@yahoo.com",
+        "bustype": [
+            {
+                "type": "single deck",
+                "seat":  "30"
+            }
+        ],
+        "busfacilities": [
+            {
+                "tv": false,
+                "wifi":false,
+                "socketplug": false,
+                "usbport": false,
+                "vipseater": false,
+                "readinglight": false
+            }
+        ],
+        "busdropoffpoint": [
+            {
+                "location": "Kemaman"
+            },
+            {
+                "location": "Kemasik"
+            },
+            {
+                "location": "Kerteh"
+            },
+            {
+                "location": "Paka"
+            },
+            {
+                "location": "Dungun"
+            },
+            {
+                "location": "Marang Jetty"
+            },
+            {
+                "location": "Shahbandar Jetty"
+            },
+            {
+                "location": "UniSZA"
+            },
+            {
+                "location": "Hentian Bas MBKT Kuala Terengganu"
+            }
+        ]     
+    },
+    {
+        "buscode": "B009",
+        "busoperatorname": "KKKL Express",
+        "busoperatorcompanyname": "K.K.K.L. Sdn. Bhd.",
+        "busoperatorphoneno": [
+            {
+                "phonehq": "-",
+                "phoneoperation":"+6012-784 9999 / +6010-2018699",
+                "phonehotline": "012-7082999"
+            }
+        ],    
+        "busoperatorfaxno": "607-431 2144",
+        "busoperatoremail": "enquiry@kkkl.com.my",
+        "bustype": [
+            {
+                "type": "single deck",
+                "seat":  "27"
+            }
+        ],
+        "busfacilities": [
+            {
+                "tv": false,
+                "wifi":false,
+                "socketplug": false,
+                "usbport": false,
+                "vipseater": false,
+                "readinglight": false
+            }
+        ],
+        "busdropoffpoint": [
+           
+            {
+                "location": "Hentian Bas MBKT Kuala Terengganu"
+            }
+        ]     
+    },
+    {
+        "buscode": "B010",
+        "busoperatorname": "Maraliner",
+        "busoperatorcompanyname": "Mara Liner Sdn. Bhd.",
+        "busoperatorphoneno": [
+            {
+                "phonehq": "03 - 2691 1495",
+                "phoneoperation":"03-9056 1396 (KL) / 09-536 1732 (Kuantan) / 04-720 3333 (Alor Setar)",
+                "phonehotline": "03 - 9051 2000 / 2001"
+            }
+        ], 
+        "busoperatorfaxno": "03 - 2691 5813",
+        "busoperatoremail": "info@maralinergroup.my, aduan@maralinergroup.my",
+        "bustype": [
+            {
+                "type": "double deck",
+                "seat":  "45"
+            }
+        ],
+        "busfacilities": [
+            {
+                "tv": false,
+                "wifi":false,
+                "socketplug": false,
+                "usbport": false,
+                "vipseater": false,
+                "readinglight": false
+            }
+        ],
+        "busdropoffpoint": [
+            {
+                "location": "Kemaman"
+            },
+            {
+                "location": "Dungun"
+            },
+            {
+                "location": "Hentian Bas MBKT Kuala Terengganu"
+            }
+        ]     
+    },
+    {
+        "buscode": "B011",
+        "busoperatorname": "Moraza Express",
+        "busoperatorcompanyname": "Moraza Express",
+        "busoperatorphoneno": [
+            {
+                "phonehq": "-",
+                "phoneoperation":"012-6446012",
+                "phonehotline": "-"
+            }
+        ], 
+        "busoperatorfaxno": "-",
+        "busoperatoremail": "info@morazaexpress.my",
+        "bustype": [
+            {
+                "type": "double deck",
+                "seat":  "40"
+            }
+        ],
+        "busfacilities": [
+            {
+                "tv": true,
+                "wifi":true,
+                "socketplug": false,
+                "usbport": true,
+                "vipseater": true,
+                "readinglight": true
+            }
+        ],
+        "busdropoffpoint": [           
+            {
+                "location": "Merang"
+            },
+            {
+                "location": "Hentian Bas MBKT Kuala Terengganu"
+            },
+            {
+                "location": "Unisza"
+            },
+            {
+                "location": "Setiu"
+            },
+            {
+                "location": "Kuala Besut"
+            },
+            {
+                "location": "Jerteh"
+            }
+        ]     
+    },
+    {
+        "buscode": "B012",
+        "busoperatorname": "MY Xpress",
+        "busoperatorcompanyname": "Jasa Sinaran Ekspress Sdn. Bhd.",
+        "busoperatorphoneno": [
+            {
+                "phonehq": "-",
+                "phoneoperation":"019-9812510",
+                "phonehotline": "-"
+            }
+        ], 
+        "busoperatorfaxno": "-",
+        "busoperatoremail": "myekspressbus@gmail.com",
+        "bustype": [
+            {
+                "type": "single deck",
+                "seat":  "30"
+            }
+        ],
+        "busfacilities": [
+            {
+                "tv": true,
+                "wifi":true,
+                "socketplug": false,
+                "usbport": true,
+                "vipseater": false,
+                "readinglight": true
+            }
+        ],
+        "busdropoffpoint": [
+           
+            {
+                "location": "Jerteh"
+            }
+        ]     
+    },
+    {
+        "buscode": "B013",
+        "busoperatorname": "Nini Express",
+        "busoperatorcompanyname": "Pelancungan Nini Enterprise Sdn. Bhd.",
+        "busoperatorphoneno": [
+            {
+                "phonehq": "-",
+                "phoneoperation":"09-6231018",
+                "phonehotline": "-"
+            }
+        ], 
+        "busoperatorfaxno": "-",
+        "busoperatoremail": "niniexpress@yahoo.com",
+        "bustype": [
+            {
+                "type": "single deck",
+                "seat":  "40"
+            }
+        ],
+        "busfacilities": [
+            {
+                "tv": false,
+                "wifi":false,
+                "socketplug": false,
+                "usbport": false,
+                "vipseater": false,
+                "readinglight": false
+            }
+        ],
+        "busdropoffpoint": [
+            {
+                "location": "Kemaman"
+            },
+            {
+                "location": "Dungun"
+            },
+            {
+                "location": "Hentian Bas MBKT Kuala Terengganu"
+            }
+        ]    
+    },
+    {
+        "buscode": "B014",
+        "busoperatorname": "Queen Express",
+        "busoperatorcompanyname": "Queen Express",
+        "busoperatorphoneno": [
+            {
+                "phonehq": "-",
+                "phoneoperation":"09 742 2277",
+                "phonehotline": "-"
+            }
+        ], 
+        "busoperatorfaxno": "-",
+        "busoperatoremail": "QueenExpress77@gmail.com",
+        "bustype": [
+            {
+                "type": "double deck",
+                "seat":  "42"
+            }
+        ],
+        "busfacilities": [
+            {
+                "tv": false,
+                "wifi":true,
+                "socketplug": false,
+                "usbport": true,
+                "vipseater": false,
+                "readinglight": false
+            }
+        ],
+        "busdropoffpoint": [
+            {
+                "location": "Kuala Besut"
+            },
+            {
+                "location": "Jerteh"
+            }
+        ]     
+    },
+    {
+        "buscode": "B015",
+        "busoperatorname": "SP Bumi Ekspres",
+        "busoperatorcompanyname": "Syarikat Pengangkutan Bumi Pantai Timur Sdn Bhd (S.P. Bumi)",
+        "busoperatorphoneno": [
+            {
+                "phonehq": "-",
+                "phoneoperation":"09 - 623 7789",
+                "phonehotline": "03-77288789"
+            }
+        ], 
+        "busoperatorfaxno": "-",
+        "busoperatoremail": "spbpantaitimur@yahoo.com",
+        "bustype": [
+            {
+                "type": "single deck",
+                "seat":  "30"
+            }
+        ],
+        "busfacilities": [
+            {
+                "tv": false,
+                "wifi":false,
+                "socketplug": false,
+                "usbport": false,
+                "vipseater": false,
+                "readinglight": true
+            }
+        ],
+        "busdropoffpoint": [
+            {
+                "location": "Kemaman"
+            },
+            {
+                "location": "Dungun"
+            },
+            {
+                "location": "Hentian Bas MBKT Kuala Terengganu"
+            }
+        ]     
+    },
+    {
+        "buscode": "B016",
+        "busoperatorname": "Sani Express",
+        "busoperatorcompanyname": "Sani Express Sdn. Bhd.",
+        "busoperatorphoneno": [
+            {
+                "phonehq": "-",
+                "phoneoperation":"019-2685050",
+                "phonehotline": "603 - 3344 4542"
+            }
+        ], 
+        "busoperatorfaxno": "03-33438870",
+        "busoperatoremail": "khairolazli@saniexpress.com.my",
+        "bustype": [
+            {
+                "type": "single deck",
+                "seat":  "34"
+            },
+            {
+                "type": "double deck",
+                "seat":  "48"
+            }
+        ],
+        "busfacilities": [
+            {
+                "tv": false,
+                "wifi":false,
+                "socketplug": false,
+                "usbport": false,
+                "vipseater": false,
+                "readinglight": false
+            }
+        ],
+        "busdropoffpoint": [
+            {
+                "location": "Kemaman"
+            },
+            {
+                "location": "Paka"
+            },
+            {
+                "location": "Kuala Berang"
+            },
+            {
+                "location": "Ajil"
+            },
+            {
+                "location": "Masjid Bukit Payung"
+            },
+            {
+                "location": "Hentian Bas MBKT Kuala Terengganu"
+            },
+            {
+                "location": "Setiu"
+            },
+            {
+                "location": "Kampung Raja"
+            },
+            {
+                "location": "Kuala Besut"
+            },
+            {
+                "location": "Jerteh"
+            }
+        ]     
+    },
+    {
+        "buscode": "B017",
+        "busoperatorname": "Transnasional",
+        "busoperatorcompanyname": "Konsortium Transnasional Berhad",
+        "busoperatorphoneno": [
+            {
+                "phonehq": "03 8733 5030",
+                "phoneoperation":"-",
+                "phonehotline": "-"
+            }
+        ], 
+        "busoperatorfaxno": "03 8733 0030",
+        "busoperatoremail": "afzan.hq@ktb.com.my, saiza.trans.wr@ktb.com.my",
+        "bustype": [
+            {
+                "type": "single deck",
+                "seat":  "30"
+            },
+            {
+                "type": "double deck",
+                "seat":  ""
+            }
+        ],
+        "busfacilities": [
+            {
+                "tv": false,
+                "wifi":false,
+                "socketplug": false,
+                "usbport": false,
+                "vipseater": false,
+                "readinglight": false
+            }
+        ],
+        "busdropoffpoint": [
+            {
+                "location": "Kemaman"
+            },
+            {
+                "location": "Dungun"
+            },
+            {
+                "location": "Hentian Bas MBKT Kuala Terengganu"
+            }
+        ]     
+    }
+]
