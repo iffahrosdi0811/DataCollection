@@ -18,7 +18,7 @@
                 "seat": "30"
             }
         ],
-        "busfacilities": [
+        "busamenities": [
             {
                 "tv": false,
                 "wifi":false,
@@ -72,7 +72,7 @@
                 "seat":  "45"
             }
         ],
-        "busfacilities": [
+        "busamenities": [
             {
                 "tv": false,
                 "wifi":false,
@@ -122,7 +122,7 @@
                 "seat":  "45"
             }
         ],
-        "busfacilities": [
+        "busamenities": [
             {
                 "tv": false,
                 "wifi":true,
@@ -169,7 +169,7 @@
                 "seat":  "58"
             }
         ],
-        "busfacilities": [
+        "busamenities": [
             {
                 "tv": false,
                 "wifi":false,
@@ -219,7 +219,7 @@
                 "seat":  "45"
             }
         ],
-        "busfacilities": [
+        "busamenities": [
             {
                 "tv": false,
                 "wifi":false,
@@ -255,7 +255,7 @@
                 "seat":  "31"
             }
         ],
-        "busfacilities": [
+        "busamenities": [
             {
                 "tv": false,
                 "wifi":false,
@@ -302,7 +302,7 @@
                 "seat":  "30"
             }
         ],
-        "busfacilities": [
+        "busamenities": [
             {
                 "tv": false,
                 "wifi":false,
@@ -338,7 +338,7 @@
                 "seat":  "30"
             }
         ],
-        "busfacilities": [
+        "busamenities": [
             {
                 "tv": false,
                 "wifi":false,
@@ -397,7 +397,7 @@
                 "seat":  "27"
             }
         ],
-        "busfacilities": [
+        "busamenities": [
             {
                 "tv": false,
                 "wifi":false,
@@ -433,7 +433,7 @@
                 "seat":  "45"
             }
         ],
-        "busfacilities": [
+        "busamenities": [
             {
                 "tv": false,
                 "wifi":false,
@@ -474,7 +474,7 @@
                 "seat":  "40"
             }
         ],
-        "busfacilities": [
+        "busamenities": [
             {
                 "tv": true,
                 "wifi":true,
@@ -524,7 +524,7 @@
                 "seat":  "30"
             }
         ],
-        "busfacilities": [
+        "busamenities": [
             {
                 "tv": true,
                 "wifi":true,
@@ -560,7 +560,7 @@
                 "seat":  "40"
             }
         ],
-        "busfacilities": [
+        "busamenities": [
             {
                 "tv": false,
                 "wifi":false,
@@ -601,7 +601,7 @@
                 "seat":  "42"
             }
         ],
-        "busfacilities": [
+        "busamenities": [
             {
                 "tv": false,
                 "wifi":true,
@@ -639,7 +639,7 @@
                 "seat":  "30"
             }
         ],
-        "busfacilities": [
+        "busamenities": [
             {
                 "tv": false,
                 "wifi":false,
@@ -684,7 +684,7 @@
                 "seat":  "48"
             }
         ],
-        "busfacilities": [
+        "busamenities": [
             {
                 "tv": false,
                 "wifi":false,
@@ -750,7 +750,7 @@
                 "seat":  ""
             }
         ],
-        "busfacilities": [
+        "busamenities": [
             {
                 "tv": false,
                 "wifi":false,
